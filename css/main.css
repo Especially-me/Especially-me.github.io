@@ -1,0 +1,26 @@
+.header {
+	background-image: url(../img/Canada_Mountains_Scenery_488936.jpg);
+	
+	min-height: 969px;
+}
+img {
+	width: 100%;
+	height: auto;
+	
+}
+.card {
+	position: absolute;
+	text-align: center;
+	margin: 90px;
+	border-color: #2F4F4F;
+}
+.card-body {
+	background-color: #2F4F4F;
+	color: #F5F5DC;
+	
+}
+.card a {
+	background-color: #696969;
+	border-color: #556B2F;
+	color: #E0FFFF;
+}
